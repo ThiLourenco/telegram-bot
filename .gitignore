@@ -105,3 +105,6 @@ dist
 
 # chatbot
 chat-bot.json
+
+# youtube
+yt-api.json
