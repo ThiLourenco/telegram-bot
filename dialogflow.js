@@ -1,8 +1,6 @@
 const dialogflow = require('dialogflow');
 const configs = require('./chat-bot.json');
 
-console.log(configs);
-
 const sessionClient = new dialogflow.SessionsClient({
   project_Id: configs.project_id,
   credentials: {
