@@ -104,7 +104,7 @@ dist
 .tern-port
 
 # chatbot
-chat-bot.json
+chat-bot-telegram.json
 
 # youtube
 yt-api.json
